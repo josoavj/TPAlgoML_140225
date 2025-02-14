@@ -16,3 +16,4 @@
 
 - Les anciens TP sont dans: [tpAlgoMLM1](https://github.com/josoavj/tpAlgoML_M1)
 - Fichier pour la partie 1: ``Fanorontelo.ipynb``
+- Interface: ``fanorona.py``
