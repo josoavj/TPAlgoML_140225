@@ -18,7 +18,7 @@ screen = pygame.display.set_mode((LARGEUR_FENETRE, HAUTEUR_FENETRE))
 pygame.display.set_caption("Fanorona 3x3")
 
 # Charger l'image de fond
-image_fond = pygame.image.load("F1.png")
+image_fond = pygame.image.load("assets/F1.jpg")
 image_fond = pygame.transform.scale(image_fond, (LARGEUR_FENETRE, HAUTEUR_FENETRE))
 
 # Instance de la classe Noeud pour l'état du jeu
@@ -66,6 +66,7 @@ def verifier_grille_pleine():
 running = True
 mouvements = []
 case_origine = None
+
 
 while running:
     for event in pygame.event.get():
