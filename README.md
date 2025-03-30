@@ -12,6 +12,15 @@
 - [RAHELIMALALA Anja Nasandratra](https://github.com/AnjaRahelimalala) **IGGLIA4** N°41 **Rôle:** Développeur Back-end 
 - [RABEMANANJARA Minoarisoa Jaela](https://github.com/FyJael) **IGGLIA4** N°46 **Rôle:** Back-end
 
+### 📂 Structuration des dossiers
+
+```
+tpAlgoML_140225/                                # Dossier principal
+├── assets/                                     # Fichiers tiers et ressources (Images)
+├── fanorona.py                                 # Fichier du jeu Fanorona
+└── README.md                                   # Documentation
+```
+
 ### Autres
 
 - Les anciens TP sont dans: [tpAlgoMLM1](https://github.com/josoavj/tpAlgoML_M1)
